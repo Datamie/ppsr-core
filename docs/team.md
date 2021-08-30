@@ -28,3 +28,4 @@ PPSR Core is maintained by an international group of volunteers including member
 
 **Xeni Kechagioglou**, LifeWatch ERIC
 
+**Mieke Sterken**, KULeuven, Belgium
